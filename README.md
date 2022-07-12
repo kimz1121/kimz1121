@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimz1121&show_icons=true&theme=shades-of-purple&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimz1121&count_private=true)
+
 <!--
 **kimz1121/kimz1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
